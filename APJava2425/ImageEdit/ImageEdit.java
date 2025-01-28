@@ -1,4 +1,4 @@
-package ImageEdit;
+package APJava2425.ImageEdit;
 //import all the libraries
 import java.awt.*;
 import java.awt.image.*;

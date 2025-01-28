@@ -1,4 +1,4 @@
-package ImageEdit;
+package APJava2425.ImageEdit;
 
 public class Main
 {

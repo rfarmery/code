@@ -1,4 +1,4 @@
-package TicTacToe;
+package APJava2425.TicTacToe;
 import java.util.Scanner;
 
 public class TicTacToePlay {
