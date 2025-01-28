@@ -4,7 +4,7 @@ public class Main
 {
    public static void main(String[] args) {
         //create a new ImageEdit object using input file (image of school)
-        ImageEdit newFilter = new ImageEdit("ImageEdit/school.jpg");
+        ImageEdit newFilter = new ImageEdit("APJava2425/ImageEdit/school.jpg");
         //convert the jpg to a pixel array to be able to modify each pixel
         newFilter.imagetoArray();
 
