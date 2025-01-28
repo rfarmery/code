@@ -23,5 +23,7 @@ public class TicTacToePlay {
         }
         ttt.nextPlayer();
         }
+        
+    input.close();
     }
 }
